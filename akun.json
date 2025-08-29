@@ -1,12 +1,16 @@
 {
   "users": [
     {
-      "username": "asep2",
-      "password": "cecep1"
+      "username": "irul1",
+      "password": "irull1"
     },
     {
-      "username": "udin2",
-      "password": "cecep2"
+      "username": "arya2",
+      "password": "aryaa2"
+    },
+    { 
+      "username": "zacx1"
+      "password": "zacxx1"
     }
   ]
 }
